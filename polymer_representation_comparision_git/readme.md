@@ -10,7 +10,7 @@ This repository contains research code for predicting the glass transition tempe
 ## 📦 Pre-trained Models & Checkpoints
 Due to size limits, large model checkpoint files (`.pth`, `.bin`, etc.) are not included in this GitHub repository. They can be downloaded directly from our Hugging Face model hub.
 
-- **Hugging Face Checkpoints:** [https://huggingface.co/h0518a/polymer_tg_prediction_checkpoints](https://huggingface.co/h0518a/polymer_tg_prediction_checkpoints)
+- **Hugging Face Checkpoints:** [https://huggingface.co/h0518a/polymer_tg_prediction_checkpoints](https://huggingface.co/h0518a/polymer_tg_prediction_checkpoints/tree/main)
 - Please place the downloaded folders (e.g., `ckpt/`, `happy_tg/checkpoint/`) in the root directory of this project.
 
 ## 🚀 Installation
