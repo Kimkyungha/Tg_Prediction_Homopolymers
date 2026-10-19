@@ -3,8 +3,8 @@
 This repository contains research code for predicting the glass transition temperature (Tg) of polymers by comparing various chemical language representations (e.g., BigSMILES, PSMILES, HAPPY) and Graph Neural Network (GNN) architectures.
 
 ## 📌 Key Features
-- **Polymer Representations:** Comparison of tokenization and embedding strategies across representations including BigSMILES, PSMILES, HAPPY, and GT4SD.
-- **Models:** Implementation and application of various deep learning models such as GAT, GCN, MPNN, and HPG.
+- **Polymer Representations:** Comparison of tokenization and embedding strategies across chemical languages (BigSMILES, PSMILES, HAPPY, GT4SD) and graph-based representations(repeat unit graph, periodic polymer graph and hierarchical polymer graph).
+- **Models:** Implementation and application of various deep learning models such as GAT.
 - **Task:** Regression prediction of the glass transition temperature (Tg) using polymer datasets.
 
 ## 📦 Pre-trained Models & Checkpoints
